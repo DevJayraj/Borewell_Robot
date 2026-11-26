@@ -12,6 +12,8 @@ The components are as follow :
 -Camera Module
 -TowerPro MG996R Heavy Duty Servo Motor 
 -Claw/Jaw for holding victim
+-16x2 LCD module
+-DHT11 sensor(Temperature module)
 
 The claw/jaw functions as a rescue arm , whose movement is controlled with an attached servo motor , which helps to rescue the victim and thus making this prototype fully functioning on a demonstrative level.
 
@@ -22,3 +24,4 @@ The functioning of this prototype is simple :
 -Through the custom app built , user can control the vertical movement of the main-board and the opening the closing of the rescue arm.
 -User can also access the live footage form the camera through the app.
 
+In addition , the prototype has a LCD display module and temperature sensor to add more accessibility to the rescue operation.
